@@ -8,6 +8,8 @@ public class Main {
 	
 	public void thisIsANewMethod() {
 		System.out.println("Method called");
+
+		System.out.println("Test Member 2");
 	}
 
 }
