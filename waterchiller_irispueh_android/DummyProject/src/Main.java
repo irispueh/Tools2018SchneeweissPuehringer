@@ -17,5 +17,10 @@ public class Main {
 		System.out.println("Hello World!");
 		System.out.println("------------");
 	}
+	
+	public void thisIsANewMethod3() {
+		System.out.println("This is a new Method #3!");
+		System.out.println("------------------------");
+	}
 
 }
