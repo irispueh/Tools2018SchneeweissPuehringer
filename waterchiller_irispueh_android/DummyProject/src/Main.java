@@ -11,5 +11,11 @@ public class Main {
 
 		System.out.println("Test Member 2");
 	}
+	
+	
+	public void thisIsANewMethod2() {
+		System.out.println("Hello World!");
+		System.out.println("------------");
+	}
 
 }
