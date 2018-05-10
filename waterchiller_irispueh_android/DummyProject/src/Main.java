@@ -8,8 +8,11 @@ public class Main {
 	
 	public void thisIsANewMethod() {
 		System.out.println("Method called");
-
-		System.out.println("Test Member 2");
+		
+		for(int i = 0;i <3;i++)
+		{
+			System.out.println(i); // bugfix
+		}
 	}
 	
 	
